@@ -1,8 +1,8 @@
 # NHẬT KÝ THỰC HIỆN LAB 5 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
-* **Link Repository cá nhân:** 
+* **Họ và tên: Nguyễn Ngọc Sáng** 
+* **Mã sinh viên: PS44637** 
+* **Link Repository cá nhân: https://github.com/annihilate0502-ux/COM108-LAB5-PS44637-NGUYENNGOCSANG** 
 
 ---
 
