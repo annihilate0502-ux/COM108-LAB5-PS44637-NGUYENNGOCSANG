@@ -7,7 +7,7 @@
 ---
 
 ### Lần 1: Bài 1
-- Trạng thái: Chờ chấm
+- Trạng thái: Đã chấm
 - Ghi chú: Xanh
 
 ### Lần 2: Bài 1
@@ -15,16 +15,16 @@
 - Lỗi/Cách sửa: 
 
 ### Lần 3: Bài 2
-- Trạng thái: 
-- Lỗi/Cách sửa: 
+- Trạng thái: Đã chấm
+- Ghi chú: Xanh
 
 ### Lần 4: Bài 2
 - Trạng thái: 
 - Lỗi/Cách sửa: 
 
 ### Lần 5: Bài 3
-- Trạng thái: 
-- Lỗi/Cách sửa: 
+- Trạng thái: Đã chấm
+- Ghi chú: Xanh 
 
 ### Lần 6: Bài 3
 - Trạng thái: 
